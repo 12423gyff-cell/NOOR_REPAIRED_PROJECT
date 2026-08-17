@@ -1,0 +1,6 @@
+{
+  "name": "Noor",
+  "description": "Local-first contextual Quran intelligence engine providing timely verses based on device and emotional context",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
